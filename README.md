@@ -4,7 +4,7 @@
 <h2 align="center">Айсен Еремеев</h2>
 <p align="center">Добро пожаловать в мое портфолио 🚀.</p>    
  
-## 👋 Меня зовут Айсен Еремеев, я специализируюсь на создании нативных приложений на iOS. Моя цель - разрабатывать удобные, эстетичные и производительные приложения, которые делают жизнь пользователей проще и лучше.
+👋 Меня зовут Айсен Еремеев, я специализируюсь на создании нативных приложений на iOS. Моя цель - разрабатывать удобные, эстетичные и производительные приложения, которые делают жизнь пользователей проще и лучше.
 
 В моем портфолио вы можете посмотреть разработанные мной приложения:
 
@@ -33,7 +33,6 @@
 <img src="https://github.com/icerbox/diplom_iOS_lvl1/blob/master/ydisk_skillbox/images/YandexDisk1.png" alt="YandexDisk1" width="200"/>
 <img src="https://github.com/icerbox/diplom_iOS_lvl1/blob/master/ydisk_skillbox/images/YandexDisk2.png" alt="YandexDisk2" width="200"/>
 <img src="https://github.com/icerbox/diplom_iOS_lvl1/blob/master/ydisk_skillbox/images/YandexDisk3.png" alt="YandexDisk3" width="200"/>
-<img src="https://github.com/icerbox/diplom_iOS_lvl1/blob/master/ydisk_skillbox/images/YandexDisk4.png" alt="YandexDisk4" width="200"/>
 <img src="https://github.com/icerbox/diplom_iOS_lvl1/blob/master/ydisk_skillbox/images/YandexDisk5.png" alt="YandexDisk5" width="200"/>
 <img src="https://github.com/icerbox/diplom_iOS_lvl1/blob/master/ydisk_skillbox/images/YandexDisk6.png" alt="YandexDisk6" width="200"/>
 </p>
