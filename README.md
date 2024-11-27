@@ -28,13 +28,12 @@
 - Позволяет скачивать имеющиеся файлы.
 
 **Скриншоты приложения:**
-
 <p align="left">
-<img src="https://github.com/icerbox/AisenEremeev/blob/main/YandexDisk1.png" alt="YandexDisk1" width="200"/>
-<img src="https://github.com/icerbox/AisenEremeev/blob/main/YandexDisk2.png" alt="YandexDisk2" width="200"/>
-<img src="https://github.com/icerbox/AisenEremeev/blob/main/YandexDisk3.png" alt="YandexDisk3" width="200"/>
-<img src="https://github.com/icerbox/AisenEremeev/blob/main/YandexDisk5.png" alt="YandexDisk5" width="200"/>
-<img src="https://github.com/icerbox/AisenEremeev/blob/main/YandexDisk6.png" alt="YandexDisk6" width="200"/>
+<img src="https://icerbox.github.io/AisenEremeev/YandexDisk1.png" alt="YandexDisk1" width="200"/>
+<img src="https://icerbox.github.io/AisenEremeev/YandexDisk2.png" alt="YandexDisk2" width="200"/>
+<img src="https://icerbox.github.io/AisenEremeev/YandexDisk3.png" alt="YandexDisk3" width="200"/>
+<img src="https://icerbox.github.io/AisenEremeev/YandexDisk5.png" alt="YandexDisk5" width="200"/>
+<img src="https://icerbox.github.io/AisenEremeev/YandexDisk6.png" alt="YandexDisk6" width="200"/>
 </p>
 
 **Использованные технологии**
