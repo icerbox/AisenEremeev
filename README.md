@@ -2,11 +2,11 @@
   <img src="https://img.hhcdn.ru/photo/707353339.jpeg?t=1732797580&h=kr9UHBuARWmmeYMDD5BHWg" width="200" height="200">
 </p>
 <h2 align="center">Айсен Еремеев</h2>
-<p align="center">Добро пожаловать в мое портфолио 🚀.</p>    
+<p align="center">Добро пожаловать в мое портфолио.</p>    
  
-👋 Меня зовут Айсен Еремеев, я специализируюсь на создании нативных приложений на iOS. Моя цель - разрабатывать удобные, эстетичные и производительные приложения, которые делают жизнь пользователей проще и лучше.
+Меня зовут Айсен Еремеев, я специализируюсь на создании нативных приложений на iOS. Моя цель - разрабатывать удобные, эстетичные и производительные приложения, которые делают жизнь пользователей проще и лучше.
 
-В моем портфолио вы можете посмотреть разработанные мной приложения:
+В данном портфолио вы можете посмотреть разработанные мной приложения:
 
 ## [Приложение для облачного хранения файлов](https://github.com/icerbox/diplom_iOS_lvl1)
 
@@ -30,11 +30,11 @@
 **Скриншоты приложения:**
 
 <p align="left">
-<img src="https://github.com/icerbox/diplom_iOS_lvl1/blob/master/ydisk_skillbox/images/YandexDisk1.png" alt="YandexDisk1" width="200"/>
-<img src="https://github.com/icerbox/diplom_iOS_lvl1/blob/master/ydisk_skillbox/images/YandexDisk2.png" alt="YandexDisk2" width="200"/>
-<img src="https://github.com/icerbox/diplom_iOS_lvl1/blob/master/ydisk_skillbox/images/YandexDisk3.png" alt="YandexDisk3" width="200"/>
-<img src="https://github.com/icerbox/diplom_iOS_lvl1/blob/master/ydisk_skillbox/images/YandexDisk5.png" alt="YandexDisk5" width="200"/>
-<img src="https://github.com/icerbox/diplom_iOS_lvl1/blob/master/ydisk_skillbox/images/YandexDisk6.png" alt="YandexDisk6" width="200"/>
+<img src="https://github.com/icerbox/AisenEremeev/blob/main/YandexDisk1.png" alt="YandexDisk1" width="200"/>
+<img src="https://github.com/icerbox/AisenEremeev/blob/main/YandexDisk2.png" alt="YandexDisk2" width="200"/>
+<img src="https://github.com/icerbox/AisenEremeev/blob/main/YandexDisk3.png" alt="YandexDisk3" width="200"/>
+<img src="https://github.com/icerbox/AisenEremeev/blob/main/YandexDisk5.png" alt="YandexDisk5" width="200"/>
+<img src="https://github.com/icerbox/AisenEremeev/blob/main/YandexDisk6.png" alt="YandexDisk6" width="200"/>
 </p>
 
 **Использованные технологии**
