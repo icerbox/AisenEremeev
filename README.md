@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/icerbox/AisenEremeev/blob/main/ProfilePhoto.jpg" width="200" height="200">
+  <img src="https://icerbox.github.io/AisenEremeev/ProfilePhoto.jpg" width="200" height="200">
 </p>
 <h2 align="center">Айсен Еремеев</h2>
 <p align="center">Добро пожаловать в мое портфолио.</p>    
